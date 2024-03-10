@@ -1,3 +1,4 @@
+//Tests pour le genérateur de tournois
 import { expect } from "chai";
 import TournamentGenerator from "../src/tournamentGenerator.js";
 

@@ -1,3 +1,4 @@
+//Tests pour le genérateur d'équipe
 import { expect } from "chai";
 import TeamGenerator from "../src/teamGenerator.js";
 

@@ -1,3 +1,4 @@
+//Genérateur d'équipe
 class TeamGenerator {
   constructor(players, playersPerTeam = 3) {
     this.players = players;
@@ -27,5 +28,4 @@ class TeamGenerator {
 }
 
 export default  TeamGenerator
-// Exemple d'utilisation
 
